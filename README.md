@@ -1,6 +1,10 @@
 # Hi 👋, I'm Ömer
 ## A frontend developer from Turkey
 
+- 📝 I regularly write articles on [omersut.com](omersut.com)
+
+- 📫 How to reach me **omersutcom@gmail.com**
+
 <div>
 <h3 align="left">Contact me:</h3>
 <p align="left">
