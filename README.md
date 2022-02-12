@@ -1,7 +1,7 @@
 # Hi 👋, I'm Ömer
 ## A frontend developer from Turkey
 
-- 📝 I regularly write articles on https://omersut.com
+- 📝 I regularly write articles on www.omersut.com
 
 - 📫 How to reach me **omersutcom@gmail.com**
 
