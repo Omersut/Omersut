@@ -4,10 +4,6 @@
 - 📝 I regularly write articles on www.omersut.com
 
 - 📫 How to reach me **omersutcom@gmail.com**
-
-
- - <a href="https://www.linkedin.com/in/omersut/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/omersut/" height="30" width="40" /></a><a href="https://www.instagram.com/developerjr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/developerjr/" height="30" width="40" /></a>
-
   
   ---
 
@@ -22,11 +18,6 @@
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  
-  ![Profil Görüntüleme Sayacı](https://komarev.com/ghpvc/?username=omersut)
-
-  
-  
 
 
 
