@@ -1,14 +1,8 @@
-# Hi 👋, I'm Ömer
-## A frontend developer from Turkey
+ 📝 I regularly write articles on [medium.com/@omersut](https://medium.com/@omersut)
 
-- 📝 I regularly write articles on www.omersut.com
-
-- 📫 How to reach me **omersutcom@gmail.com**
+ 📫 How to reach me **omersutcom@gmail.com**
   
   ---
-
-<h3 align="left">Languages  </h3>
-
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
