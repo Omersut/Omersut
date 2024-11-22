@@ -1,4 +1,4 @@
- 📝 I regularly write articles on [medium.com/@omersut](https://medium.com/@omersut)
+
 
  📫 How to reach me **omersutcom@gmail.com**
   
