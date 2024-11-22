@@ -1,6 +1,8 @@
 
 
  📫 How to reach me **omersutcom@gmail.com**
+ 
+ **[omersut.com](https://bento.me/omersut)**
   
   ---
 
